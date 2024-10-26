@@ -1,1 +1,1 @@
-Windows Keyboard Clean Tool is a super simple little tool which blocks all keyboard features while cleaning.
+Windows Keyboard Clean Tool is a simple little tool that blocks all keyboard features while cleaning it.
