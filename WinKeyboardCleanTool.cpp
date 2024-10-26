@@ -22,7 +22,7 @@ int main() {
         return 1;
     }
 
-    std::cout << "Your keyboard locked now. You can start cleaning, after you done just simply close the program." << std::endl;
+    std::cout << "Your keyboard is locked now. You can start cleaning it and after you are done simply close the program." << std::endl;
     MSG msg;
     while (GetMessage(&msg, NULL, 0, 0)) {
         TranslateMessage(&msg);
